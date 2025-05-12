@@ -4,8 +4,7 @@ Neko Tasks is a cute, simple, and delightful browser-based to-do list applicatio
 
 **Live Demo:** [https://yourusername.github.io/neko-tasks/](https://yourusername.github.io/neko-tasks/) *(Replace with your actual live URL)*
 
-![Neko Tasks Screenshot](placeholder-screenshot.png)
-*(Consider adding a screenshot of your app here. Name it `placeholder-screenshot.png` or similar and upload it to your repo.)*
+![Neko Tasks Screenshot](neko-tasks-screenshot.png)
 
 ## Features 🐾
 
