@@ -82,7 +82,7 @@ Since Neko Tasks is a purely client-side application, there's no complex setup r
 
 ## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([https://github.com/yourusername/neko-tasks/issues](https://github.com/issues/assigned) *(Replace with your URL)*.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([https://github.com/yourusername/neko-tasks/issues](https://github.com/issues/assigned)) *(Replace with your URL)*.
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
