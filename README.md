@@ -2,7 +2,7 @@
 
 Neko Tasks is a cute, simple, and delightful browser-based to-do list application designed to help you organize your tasks with a sprinkle of feline charm! Manage your daily chores, work items, or personal goals with priorities, due dates, and a motivating Neko companion to cheer you on.
 
-**Live Demo:** [https://yourusername.github.io/neko-tasks/](https://yourusername.github.io/neko-tasks/) *(Replace with your actual live URL)*
+**Live Demo:**([https://yourusername.github.io/neko-tasks/](https://nekotasks.netlify.app)) 
 
 ![Neko Tasks Screenshot](neko-tasks-screenshot.png)
 
@@ -39,7 +39,7 @@ Neko Tasks is a cute, simple, and delightful browser-based to-do list applicatio
 Since Neko Tasks is a purely client-side application, there's no complex setup required!
 
 1.  **Access the Live Demo:**
-    Simply visit [https://yourusername.github.io/neko-tasks/](https://yourusername.github.io/neko-tasks/) *(Replace with your URL)* in your web browser.
+    Simply visit [https://yourusername.github.io/neko-tasks/]([https://yourusername.github.io/neko-tasks/](https://nekotasks.netlify.app)) *(Replace with your URL)* in your web browser.
 
 2.  **Running Locally (Optional):**
     *   Clone the repository:
