@@ -4,7 +4,7 @@ Neko Tasks is a cute, simple, and delightful browser-based to-do list applicatio
 
 **Live Demo:** [https://nekotasks.netlify.app/](https://nekotasks.netlify.app/)
 
-![Neko Tasks Screenshot](screenshot.png)
+![Neko Tasks Screenshot](neko-tasks-screenshot.png)
 
 ## Features 🐾
 
