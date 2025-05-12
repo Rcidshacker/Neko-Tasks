@@ -1,10 +1,10 @@
-# Neko Tasks  Nekotasks-todo.github.io 🐱✨
+# Neko Tasks 🐱✨
 
 Neko Tasks is a cute, simple, and delightful browser-based to-do list application designed to help you organize your tasks with a sprinkle of feline charm! Manage your daily chores, work items, or personal goals with priorities, due dates, and a motivating Neko companion to cheer you on.
 
-**Live Demo:**([https://yourusername.github.io/neko-tasks/](https://nekotasks.netlify.app)) 
+**Live Demo:** [https://nekotasks.netlify.app/](https://nekotasks.netlify.app/)
 
-![Neko Tasks Screenshot](neko-tasks-screenshot.png)
+![Neko Tasks Screenshot](screenshot.png)
 
 ## Features 🐾
 
@@ -39,16 +39,16 @@ Neko Tasks is a cute, simple, and delightful browser-based to-do list applicatio
 Since Neko Tasks is a purely client-side application, there's no complex setup required!
 
 1.  **Access the Live Demo:**
-    Simply visit [https://yourusername.github.io/neko-tasks/]([https://yourusername.github.io/neko-tasks/](https://nekotasks.netlify.app)) *(Replace with your URL)* in your web browser.
+    Simply visit [https://nekotasks.netlify.app/](https://nekotasks.netlify.app/) in your web browser.
 
 2.  **Running Locally (Optional):**
     *   Clone the repository:
         ```bash
-        git clone https://github.com/yourusername/neko-tasks.git
+        git clone https://github.com/Rcidshacker/Neko-Tasks.git
         ```
     *   Navigate to the project directory:
         ```bash
-        cd neko-tasks
+        cd Neko-Tasks
         ```
     *   Open the `index.html` file directly in your web browser.
 
@@ -82,7 +82,7 @@ Since Neko Tasks is a purely client-side application, there's no complex setup r
 
 ## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([https://github.com/yourusername/neko-tasks/issues](https://github.com/issues/assigned)) *(Replace with your URL)*.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Rcidshacker/Neko-Tasks/issues).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -93,7 +93,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License 📄
 
 This project is licensed under the MIT License - see the `LICENSE` file for details (if you add one).
-*(If you don't have a LICENSE file yet, you can easily add one on GitHub by clicking "Add file" -> "Create new file" and typing `LICENSE`. GitHub will offer templates, and MIT is a good permissive one.)*
 
 ## Acknowledgements 🙏
 
@@ -104,4 +103,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-Made with ❤️ and lots of  Purr-ogramming!
+Made with ❤️ and lots of Purr-ogramming!
